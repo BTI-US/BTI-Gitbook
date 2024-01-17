@@ -1,0 +1,3 @@
+# Auditing
+
+We are currently working closely with a leading encryption audit company in the industry to comprehensively protect our system and ensure its security meets the highest standards. We are committed to conducting the most rigorous security checks to ensure that every service operates with complete security measures. Once all security checks are completed, we will publicly disclose the audit results to enhance transparency and ensure the confidence of our users. This process reflects our unwavering commitment to user security and our determination to establish a trusted reputation in the cryptocurrency industry.
