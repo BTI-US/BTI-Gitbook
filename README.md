@@ -14,11 +14,11 @@ The platform will continuously innovate and improve, providing investors with mo
 
 > **`Authors:` Diego Romano and Giovanni Schmid**
 
-> **`Whitepaper Version 1.0 | January 2024`**
+> **`Whitepaper Version 1.0 | August 2023`**
 >
-> **`Last Updated: 1th January, 2024`**
+> **`Last Updated: 1th August, 2023`**
 
-## **Useful links**
+## **Related Links**
 
 * **Website:** [http://mgncoin.xyz](http://mgncoin.xyz)
 * **Telegram Group:** [https://t.me/Mangosteen\_Global](https://t.me/Mangosteen\_Global)
