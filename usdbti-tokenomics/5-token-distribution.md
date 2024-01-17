@@ -4,9 +4,7 @@ The project plans to mint a total of **100000000000000** $BTI tokens.
 
 Token Distribution:
 
-{% embed url="https://www.figma.com/file/tLyq5A8vlwf0BUCGh0raat/Token-Distribution?node-id=0:1&t=XTRGkOEWkSq5H27a-1&type=whiteboard" %}
-Figure 3.2 - $BTI Token Distribution
-{% endembed %}
+![Figure 3.2 - $BTI Token Distribution](../.gitbook/assets/Token-Distribution.png)
 
 Chart Description:
 

@@ -50,9 +50,7 @@ The raw data will be collected from various channels, including exchanges, marke
 
 During the model construction phase on the BTI platform, feature selection is a crucial step in applying machine learning techniques. This process involves feature engineering, which entails selecting and transforming key variables in the data to more accurately reflect useful information for the predictive model. For example, technical indicators such as moving averages and relative strength index (RSI) may be calculated. Subsequently, the system will automatically select suitable algorithms (including, but not limited to, random forests, support vector machines, or deep learning models) to build the predictive model. These models are trained using historical data to identify market trends and risk patterns. To evaluate the performance of the models, we employ methods such as cross-validation to ensure high accuracy even when facing unseen data.
 
-{% embed url="https://www.figma.com/file/t4ie7OGjqPYfNwn0YX0RPV/Economic-Quantitative-System?node-id=0:1&t=ekq2JEW9zB4MEZcB-1&type=whiteboard" %}
-Figure 2.2 - Quantitative Analysis System
-{% endembed %}
+![Figure 2.2 - Quantitative Analysis System](../.gitbook/assets/Economic-Quantitative-System.png)
 
 The real-time analysis functionality is implemented through the integration of Apache Kafka and Spark Streaming, specifically designed for processing market data. These technologies enable the platform to utilize pre-built models for real-time risk assessment and market predictions, providing users with up-to-date market insights. Additionally, the system automatically triggers an alert function to notify users of potential risks when market data reaches predetermined thresholds or exhibits specific patterns. This instant response mechanism enhances the platform's responsiveness and provides users with essential risk management tools.
 
@@ -74,9 +72,7 @@ The team has made significant investments in technology and security. By adoptin
 
 Specific implementations will be further discussed in the "Research Design" chapter.
 
-{% embed url="https://www.figma.com/file/MjxljSskoYsPwYKJSvIvip/Technology-and-Safety?node-id=0:1&t=db03jCxsaZTgBhoc-1&type=whiteboard" %}
-Figure 2.3 - Technology and Safety
-{% endembed %}
+![Figure 2.3 - Technology and Safety](../.gitbook/assets/Technology-and-Safety.png)
 
 ### User Experience
 

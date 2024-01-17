@@ -1,8 +1,6 @@
 # BTI Architecture
 
-{% embed url="https://www.figma.com/file/8i3owcYVJ3VjozFsgZjt9B/Implementation-for-Platform-Function?node-id=0:1&t=LHt2tpnzWcW7Xa2x-1&type=whiteboard" %}
-Figure 4.1.1 - BTI Platform Architecture
-{% endembed %}
+![Figure 4.1.1 - BTI Platform Architecture](../.gitbook/assets/Implementation-for-Platform-Function.png)
 
 ## 1. BTI Platform Frontend Development
 
