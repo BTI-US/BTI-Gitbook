@@ -2,13 +2,21 @@
 
 ### Introduction
 
-The Bit Trading Insurance (BTI) platform is an innovative virtual currency trading insurance platform that focuses on providing risk management and asset protection services for virtual currency contract traders, especially those involved in perpetual contract trading. The platform combines decentralized insurance service mechanisms with advanced data processing to offer a unique and comprehensive insurance compensation solution for virtual currency investors.
+The Bit Trading Insurance (BTI) platform is an innovative smart virtual currency trading insurance platform that focuses on providing risk management and asset protection services for virtual currency contract traders, especially those involved in perpetual contract trading. The platform combines decentralized insurance service mechanisms with advanced data processing to offer a unique and comprehensive smart insurance compensation solution for virtual currency investors.
+
+In other industries, traditional insurance platforms often rely heavily on manual operations, including claim processing and customer service, which can lead to longer processing times. In contrast, the blockchain-based BTI smart insurance platform utilizes smart contracts to automate the execution of insurance policies and the claims process, increasing efficiency and shortening processing times. Additionally, the smart insurance platform reduces reliance on intermediaries, establishing direct connections between insurance providers and clients, further lowering operational costs, and thus offering faster and more economical services to users.
 
 As a pioneer in the industry, the BTI platform utilizes precise model construction and real-time analysis to transform big data and advanced analytical technologies into practical user services. This innovative service model not only meets the market's demand for risk management tools but also promotes the maturity and stable development of the entire virtual currency market. The platform's intuitive user interface and automated claims process further reduce investors' risks, enhance transparency and user satisfaction, and make significant contributions to the health and sustainable development of the virtual currency market.
 
 ### Core Concept
 
-The core concept of the BTI platform is to mitigate the risks of virtual currency trading by providing insurance services. This concept stems from a deep understanding of the current virtual currency market's high volatility and uncertainty. The goal of the BTI platform is to increase investors' trading confidence and market participation by alleviating their financial losses during adverse market conditions.
+In the BTI platform, the core of the claims process is the dynamic risk assessment using advanced smart contract technology and complex econometric quantification functions. The platform initially calculates each insured order's dynamic risk index by acquiring a series of key parameters, **such as the insurance coverage amount, policy duration, the size of the position in the contract order, leverage ratio, order type, market trading volume, and liquidity, various technical indicators, the user's past market performance, and economic and macroeconomic factors**.
+
+After a user confirms their insurance, the BTI platform uses smart contract technology to automatically assess and audit the policy. This process includes verifying the policy's compliance, checking the validity of the insurance coverage, and confirming the match between the insurance terms and the user's needs. Smart contracts ensure the assessment process's speed and fairness, completing complex audit tasks without the need for human intervention.
+
+Once a user's contract order triggers the insurance payout conditions, such as encountering a market crash or severe price fluctuations resulting in losses, the smart contract will automatically execute, sending the compensation amount directly to the user's wallet address. This process is not only rapid and transparent, but it also ensures that users receive timely compensation to mitigate their losses.
+
+The automation and intelligence of the entire claims process significantly increase efficiency and reliability, reduce the likelihood of operational errors, and enable the BTI platform to provide a more efficient, transparent, and secure insurance service experience for its users.
 
 ### Economic Quantitative System
 

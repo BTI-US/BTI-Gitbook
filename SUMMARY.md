@@ -1,6 +1,6 @@
 # Table of contents
 
-* [BTI-Coin: Securing the Future - An Insurance Compensation Platform for Virtual Currency Contract Transactions](README.md)
+* [BTI-Platform: Securing the Future - An Insurance Compensation Platform for Virtual Currency Contract Transactions](README.md)
   * [DISCLAIMER](readme/1-disclaimer.md)
 
 ## Introduction
@@ -24,8 +24,8 @@
 
 ## Experiment and Design
 
-* [BTI Architecture](experiment-and-design/1-bti-architecture.md)
-* [BTI Finance](experiment-and-design/2-bti-finance.md)
+* [BTI Finance](experiment-and-design/1-bti-finance.md)
+* [BTI Architecture](experiment-and-design/2-bti-architecture.md)
 
 ## Milestone
 

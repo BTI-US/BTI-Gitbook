@@ -2,19 +2,23 @@
 
 ## Seed Round Auction Purchase
 
-To attract active users and create a strong user base for the platform, while increasing market awareness of the BTI platform, we will be hosting a special seed round auction event before the official launch of insurance coverage. This event will provide exclusive opportunities for our early supporters to acquire $BTI tokens at a discounted price and experience our upcoming insurance coverage functionality in advance.
+To attract active users, build a strong user base, and enhance the market visibility of the BTI platform, we are about to hold a special seed round auction event before officially opening our insurance services. This event aims to provide our early supporters with an exclusive opportunity to purchase $BTI tokens at a favorable price and the chance to experience our upcoming insurance feature in advance.
+
+Besides promotion and market recognition purposes, this event also plays a key role in technical testing. Users who participate in the low-cost purchase event and gain access to the insurance feature will become our platform's beta testers. They will not only be the first to experience our innovative insurance service but will also provide us with valuable real data. This data is crucial for us; it will help ensure the effectiveness and reliability of our insurance feature, laying a solid foundation for the smooth launch and stable operation of the platform.
+
+Through this event, we look forward to working together with our early supporters to participate in the growth of the BTI platform. We aim to ensure that our services have been thoroughly tested and optimized before officially opening to the public, meeting the needs and expectations of our users.
 
 **Event Details**
 
 - Auction Item: $BTI tokens
-- Start Date: [specific date] January 16, 2024
-- End Date: [specific date] January 16, 2024
+- Start Date: [specific date]
+- End Date: [specific date]
 - Participation Requirements: Open to all users interested in the BTI platform
 
 **Auction Rules**
 
-1. Trading Opening Condition: The $BTI tokens obtained through auction purchase will be open for trading once the number of participants reaches **8000**.
-2. Insurance Experience Eligibility: Users holding **1000 or more** $BTI tokens will qualify for the insurance coverage experience before its official launch.
+1. Trading Opening Condition: The $BTI tokens obtained through auction purchase will be open for trading once the number of participants reaches **10000**.
+2. Insurance Experience Eligibility: Users holding * **or more** $BTI tokens will qualify for the insurance coverage experience before its official launch.
 3. Transaction Fee: Successful auction participants will be charged a **10%** transaction fee.
 
 **Ways to Participate**
