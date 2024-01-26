@@ -6,7 +6,6 @@
 ## Introduction
 
 * [Summary](introduction/1-summary.md)
-* [Partner](introduction/2-partner.md)
 
 ## New Platform and Finance Protection
 
@@ -18,7 +17,6 @@
 
 * [Protocol of Bit Trading Insurance](usdbti-tokenomics/1-protocol-of-bit-trading-insurance.md)
 * [Finance Model](usdbti-tokenomics/2-finance-model.md)
-* [Smart Contract \[To Do\]](usdbti-tokenomics/3-smart-contract-to-do.md)
 * [How to Get BTI Tokens Early](usdbti-tokenomics/4-how-to-get-bti-tokens-early.md)
 * [Token Distribution](usdbti-tokenomics/5-token-distribution.md)
 

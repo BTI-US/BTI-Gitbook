@@ -1,6 +1,6 @@
 # Summary
 
-In the rapidly developing and popularizing digital currency market, futures investors face various risks, including market volatility, counterparty default, and technical failures. To address these challenges, this white paper introduces the BTI platform — an innovative smart insurance platform for contract trading. Our aim is to use smart contract technology to provide investors with an automated, efficient, and unique protection mechanism.
+In the rapidly developing and popularizing digital currency market, futures investors face various risks, including market volatility, counterparty default, and technical failures. To address these challenges, this white paper introduces the BTI platform — an innovative smart insurance platform for contract trading. We aim to use smart contract technology to provide investors with an automated, efficient, and unique protection mechanism.
 
 The BTI platform is committed to establishing a secure, reliable, and transparent decentralized contract trading compensation platform. By introducing a blockchain-based smart insurance compensation mechanism, we provide robust risk protection for virtual currency futures investors. Smart contracts will automatically monitor and respond to market conditions, ensuring rapid compensation in the event of market fluctuations, counterparty default, or technical failures, thereby mitigating potential losses for investors.
 
