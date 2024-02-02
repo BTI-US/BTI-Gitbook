@@ -23,6 +23,8 @@ This white paper provides a clear framework for the BTI platform, covering its m
 ## **Related Links**
 
 * **Website:** [https://btiplatform.com/](https://btiplatform.com/)
-* **Telegram Group:**
 * **Twitter:** [https://twitter.com/EchoingLaughs](https://twitter.com/EchoingLaughs)
-- **Discord:**
+* **Email:** contact@btiplatform.com
+* **Phone:** +44 7562 115508
+* **Telegram Group:**
+* **Discord:**
