@@ -1,4 +1,4 @@
-# BTI Finance
+# BTI Finance Model
 
 ## 1. Data Collection and Processing
 

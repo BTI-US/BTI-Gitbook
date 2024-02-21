@@ -22,8 +22,9 @@
 
 ## Experiment and Design
 
-* [BTI Finance](experiment-and-design/1-bti-finance.md)
-* [BTI Architecture](experiment-and-design/2-bti-architecture.md)
+* [BTI Finance Model](experiment-and-design/1-bti-finance.md)
+* [BTI Website Architecture](experiment-and-design/2-bti-architecture.md)
+* [BTI Insurance Technology](experiment-and-design/3-bti-insurance-technology.md)
 
 ## Milestone
 

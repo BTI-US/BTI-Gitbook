@@ -1,6 +1,6 @@
 # Token Distribution
 
-The project plans to mint a total of **100000000000000** $BTI tokens.
+The project plans to mint a total of **100,000,000,000,000** $BTI tokens.
 
 Token Distribution:
 
@@ -11,13 +11,13 @@ Token Distribution:
 3. **Long-term Project Commitment:** Our team is dedicated to building a sustainable, long-term project. To demonstrate our commitment, we have voluntarily extended the token vesting period for the team and key users, ensuring steady development and the healthy operation of the ecosystem. Team and equity user tokens will have a 20000-holders cliff, followed by a linear vesting of over 40000 holders.
 4. **Community Long-term Support:** The long-term success of the project relies on active engagement and support from the community. Therefore, we have decided to introduce public oversight and voting mechanisms for token utilization, with community governance at its core. This not only contributes to the project's positive development but also helps reduce token emissions, providing a solid foundation for the project's long-term value proposition.
 
-## Vesting Period:
+## Vesting Period
 
 ![Figure 3.3 - Token Distribution by Holders](../.gitbook/assets/Token-Distributions-by-Holders.png)
 
-1. **Launchpool**: 47% of tokens will be added to the liquidity pool for trading after launch.
-2. **BTI Foundation**: The $BTI tokens in the foundation do not belong to anyone and are used to maintain the ecosystem built around the $BTI token.
-3. **Investors**: To ensure the stable development and healthy operation of the ecosystem, team, and equity user tokens will be locked for 3 years.
-4. **Initial Airdrop and Sign-in**: This will be distributed during the seed round auction.
+1. **Launchpool**: 32% of the liquidity pool will be unlocked immediately from Genesis.
+2. **Initial Airdrop and Private Offering**: This will be distributed during the seed round auction.
+3. **Team and Financiers**: Team and Financiers tokens have a 20000-holders cliff and 40000-holders of linear release to fully sustain the ecosystem that we are building centered in the $BTI token.
+4. **BTI Foundation**: The $BTI tokens in the foundation do not belong to anyone and are used to maintain the ecosystem built around the $BTI token.
 
 ⚠️ **Important Note**: Web2 logins will not receive airdrops or win rewards from activities.
